@@ -1,0 +1,12 @@
+| Command                   | Purpose                                  |
+| ------------------------- | ---------------------------------------- |
+| `git init`                | Create a new Git repository locally      |
+| `git clone <url>`         | Copy a remote repo to your computer      |
+| `git status`              | Show changes and current branch          |
+| `git add <file>`          | Stage changes to be committed            |
+| `git commit -m "message"` | Save a snapshot with a message           |
+| `git log`                 | View commit history                      |
+| `git diff`                | See changes not yet committed            |
+| `git branch`              | See or create branches                   |
+| `git checkout <branch>`   | Switch to a different branch             |
+| `git merge <branch>`      | Merge changes from one branch to another |
