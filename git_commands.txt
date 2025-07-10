@@ -10,3 +10,22 @@
 | `git branch`              | See or create branches                   |
 | `git checkout <branch>`   | Switch to a different branch             |
 | `git merge <branch>`      | Merge changes from one branch to another |
+
+
+   5 git log...
+   6 clear
+   7 git push origine master
+   8 git init
+   9 git add
+  10 git commit -m "add git command "
+  11 git status
+  12 git commit -m "add git command "
+  13 git add
+  14 git status
+  16 git add git_commands.txt
+  17 git commit -m "add command "
+  18 git push origin master
+  19 git status
+  20 clear
+  21 git remote -v
+  22 clear
